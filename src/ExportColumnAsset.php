@@ -6,7 +6,7 @@
  * @version 1.4.3
  */
 
-namespace kartik\export;
+namespace mootensai\export;
 
 use kartik\base\AssetBundle;
 
